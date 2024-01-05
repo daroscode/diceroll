@@ -1,2 +1,5 @@
-# diceroll
-A small dice roll app for the Tabletop RPG players out there.
+# Diceroll
+Um pequeno App para rolagem de dados no sistema Prymarya feito com Bootstrap 5 e PWA.
+
+#Autor:
+@daroscode
